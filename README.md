@@ -1,19 +1,12 @@
 ### Hi there 👋 I'm Sree
 
 ### About Me
-- I'm a second-year graduate student at the University of Illinois Urbana-Champaign, majoring in Information Science and specializing in Data Science & Analytics.
 
+🌟 Data enthusiast on a mission to turn numbers into compelling stories! Currently navigating the world of Data Analytics at Genentech, where I explore everything from IQVIA claims, Veeva Interactions data, 867 Sales (among others).
 
-### Experience
-- I worked with Python and SQL to generate insights from large scale data during my summer internship at Genentech. I helped
-support field and squad priorities of improving new patient starts and retaining market leadership in regions where percentage of active new patients was < 10%.
+🧠 With a Master’s in Information Science from UofI and being proficient in Python and SQL, my goal is to transform complex data into actionable strategies. Whether I’m automating data collection or diving deep into business performance metrics, I'm all about finding innovative solutions that drive impact.
 
-- I gained experience in R and Excel through statistical programming, hypothesis testing and data visualization.
-
-- I interned as a Student Data Scientist at the University of Washington and also as a ML Engineer at GahanAI where I worked with real-time qualitative data and built various classification and regression ML models.
-
-### Projects
-
+🚀 When I'm not crunching numbers, you might find me experimenting with new AI techniques or being an active member of the Women in Data community. Let’s connect and share some data magic
 
 <!--
 **sreenithibalasu/sreenithibalasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
